@@ -3,12 +3,37 @@
     <title>Live with Sass</title>
     <link href="http://www.livewithsass.com/feed.xml" rel="self" />
     <link href="http://www.livewithsass.com" />
-    <updated>2022-03-18T18:39:22-04:00</updated>
+    <updated>2022-04-01T12:01:41-04:00</updated>
     <author>
         <name>Kate / Sassafras</name>
     </author>
     <id>http://www.livewithsass.com</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Kate / Sassafras</name>
+        </author>
+        <link href="http://www.livewithsass.com/about.html"/>
+        <id>http://www.livewithsass.com/about.html</id>
+
+        <updated>2022-04-01T12:01:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg" alt="" />
+                    Hi, I'm Kate, also known as Sassafras. In 2018, I hiked the Appalachian Trail, solo. I developed serious nerve problems in my feet but still completed my hike. In March of 2020, I contracted COVID. I soon developed what's called longhaul Covid or just long&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg" alt="" />
+                <p>Hi, I'm Kate, also known as Sassafras.</p>
+<p>In 2018, I hiked the Appalachian Trail, solo. I developed serious nerve problems in my feet but still completed my hike.</p>
+<p>In March of 2020, I contracted COVID. I soon developed what's called longhaul Covid or just long Covid.</p>
+<p>This site is my attempt to make sense of all those experiences and draw parallels between them. I hope these musings help other people facing challenging endurance efforts and chronic illnesses so that we can all live our lives with a little more sass.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hike the Hike You&#x27;ve Been Given</title>
         <author>

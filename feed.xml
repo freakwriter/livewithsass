@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Live with Sass</title>
     <link href="http://www.livewithsass.com/feed.xml" rel="self" />
     <link href="http://www.livewithsass.com" />
-    <updated>2022-04-01T12:50:08-04:00</updated>
+    <updated>2022-12-16T17:28:37-05:00</updated>
     <author>
         <name>Kate / Sassafras</name>
     </author>
     <id>http://www.livewithsass.com</id>
 
+    <entry>
+        <title>Third time&#x27;s the charm: Sass loses taste and smell yet again</title>
+        <author>
+            <name>Kate / Sassafras</name>
+        </author>
+        <link href="http://www.livewithsass.com/third-times-the-charm.html"/>
+        <id>http://www.livewithsass.com/third-times-the-charm.html</id>
+        <media:content url="http://www.livewithsass.com/media/posts/5/PXL_20221119_203614849.jpg" medium="image" />
+            <category term="longhaulerwithsass"/>
+
+        <updated>2022-12-16T17:27:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://www.livewithsass.com/media/posts/5/PXL_20221119_203614849.jpg" alt="Photo of a cove on the coast of Maine. The sun is setting and the tide is out, revealing lots of dried brown grass and plants." />
+                    Earlier this week, my partner made a vegetarian curry dish with sweet potatoes, chickpeas, and rice. Three bites into the meal, I realized I couldn't taste the curry. At all. Since then, I've been paying attention and I'm back to where I was about a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="http://www.livewithsass.com/media/posts/5/PXL_20221119_203614849.jpg" class="type:primaryImage" alt="Photo of a cove on the coast of Maine. The sun is setting and the tide is out, revealing lots of dried brown grass and plants." /></p>
+                <p>Earlier this week, my partner made a vegetarian curry dish with sweet potatoes, chickpeas, and rice.</p>
+<p>Three bites into the meal, I realized I couldn't taste the curry. At all.</p>
+<p>Since then, I've been paying attention and I'm back to where I was about a year ago, with limited sense of taste and reduced sense of smell.</p>
+<p>When I mention this to most overall healthy people, they immediately ask me what I think caused it. Sometimes I answer this question by running through a list of vaguely logical options:</p>
+<ul>
+<li>About 4 weeks ago, I completed a 5k doing 60-second run-walk intervals. It was cold and my body hated it, my heart rate was higher than it had been for my training. The cold stressed my body and I almost puked by the end of the race. Maybe this had long-term repercussions.</li>
+<li>About 2 weeks ago, I got a flu shot. I was quite sick the day after, mildly okay two days after, and then quite sick again the day after that. I've been tired since then, back to the land of "can't get enough sleep". Maybe the flu shot was a bad idea (did it trigger a disproportionate inflammatory response in my immune system?). Or getting it "so soon" after the 5k was too much. Or maybe it's nothing.</li>
+<li>It's actually winter now. My body seems to hate the cold, so it could just be the fact of winter itself causing issues, somehow.</li>
+<li>It's actually winter now, so our forced air furnace is running. My body doesn't seem to like the HVAC system in our rental, so maybe that's triggering it. Or, in tandem with the cold. Or, in tandem with any of the other bullet points listed above.</li>
+</ul>
+<p>But what I really want to say to them is: I have a long Covid body. 1 + 1 stopped adding up to 2 in my body 2.5+ years ago. There doesn't have to be a reason. Sometimes you just hit a point of stress that causes a flare of symptoms, and it's hard to say exactly what it is.</p>
+<p>All I can do at this point is to try to remove stressors, get lots of rest, and hope.</p>
+<p>Though there are things I don't tell them.</p>
+<p>I don't tell them that the night I ate that curry, I went into the bathroom to take my shower and sobbed through my whole shower.</p>
+<p>Because you think you've found a way to manage your illness, you think it kind of makes sense and now you can make things livable. And then something that you worked really hard to regain disappears again, just like that, and you're reminded not only that none of it is within your control, not only that the doctors still can't do diddly squat to help you, but also that every time you lose it, you're going to be full of grief. There is no "normal", anymore. There's a baseline that you try to maintain and some days are great and some are still really shitty. And you're not really sure how you managed to get good days for a while once the bad ones return.</p>
+<p>I also don't tell them that when I voiced fear about the 5k or the flu shot tipping my body over the edge, they told me I shouldn't live my life in fear and to just do it. What I want to scream at them is that this isn't irrational fear: given the data I have to work with, it is completely legitimate, warranted fear. The idea that I might have somehow brought this on myself by these "risky" actions--actions which most everyone else didn't consider risky at all--is so sour I want to spit it out of my mouth. (Or it would be, if I could taste sour things.)</p>
+<p>I cried, but I also wanted to scream. I wanted to rage around the house and break things, and just...lash out with all of it. I didn't. I sobbed in the shower and went to bed. Then I managed to tell my whole team at work that I'm sicker again and will need some grace and flexibility; please don't schedule back-to-back meetings with me for hours on end. And I started testing what I can and can't taste and smell. The losses aren't as bad as 2020 and 2021's were, I still have a few flavors I can taste that aren't salt or hot sauce, and a few smells that aren't burning things and dog farts (which were the two smells I could smell for all of 2020 and a good chunk of 2021).</p>
+<p>But if there's all this stuff I won't say to most people, why write about it here?</p>
+<p>Well, the first reason is simple: I need to speak this out so it doesn't just fester in my body and turn me bitter and rageful. Venting some steam.</p>
+<p>But also: somewhere out there, I imagine there's another spoonie who's also going through a recurring loss of a good baseline. And that loss slapped them in the face, took their breath away, and left them sobbing and confused and lonely and angry and sad all at once. Whatever that loss was, it probably seemed small to outsiders (aren't you used to this by now?) and yet it feels huge and overwhelming and how on earth does any of us go on living.</p>
+<p>So you, random chronically ill person I don't actually know: I'm writing this for you. You're not alone. That rage and grief and confusion you're feeling? It's totally normal for your situation. There are lots of us who go through the same things. I'm here to write a little of it down so that we can both recognize that the emperor has no f*cking clothes on and maybe laugh or cry a bit about how absurd it is that no one else notices.</p>
+<p>Also, if your sense of taste and smell still work, please go eat some curry and revel in what an amazing thing those senses are. Lean your face over the bowl or plate, close your eyes, and inhale deeply and just f*cking luxuriate in it. Take a couple bites and let them sit in your mouth a little longer so you can get the full wave of different flavors. And then send me a single thought of flare recovery vibes. 🙃</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>On resiliency: Why I ditched the &quot;you&#x27;ll get better&quot; narrative</title>
         <author>
@@ -16,6 +61,7 @@
         </author>
         <link href="http://www.livewithsass.com/on-resiliency.html"/>
         <id>http://www.livewithsass.com/on-resiliency.html</id>
+        <media:content url="http://www.livewithsass.com/media/posts/3/IMG_20180517_111208.jpg" medium="image" />
             <category term="longhaulerwithsass"/>
 
         <updated>2022-04-01T12:50:08-04:00</updated>
@@ -27,7 +73,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.livewithsass.com/media/posts/3/IMG_20180517_111208.jpg" alt="A rocky overlook shrouded in fog" />
+                    <p><img src="http://www.livewithsass.com/media/posts/3/IMG_20180517_111208.jpg" class="type:primaryImage" alt="A rocky overlook shrouded in fog" /></p>
                 <p>As I've thought about <a href="http://www.livewithsass.com/hike-the-hike-youve-been-given.html" title="Hike the Hike You've Been Given" target="null">Hike the Hike You've Been Given</a>, and what that has looked like in my thru-hiking and long Covid life, I've realized that I can probably distill it down even further. </p>
 <p>Accepting the hike or chronic illness or whatever it is you've been given is also about reclaiming the story of your life. It's taking a story that has some seriously negative turns to it and viewing it in a positive way.</p>
 <p>I'm not talking about forced or toxic positivity. This isn't let's pretend it's all sunshine and roses.</p>
@@ -40,7 +86,7 @@
 <p>"Normal" life is a rollercoaster. Things are always falling apart and coming back together, then falling apart again. Stuff breaks. We get stressed, we get anxious, we get depressed.</p>
 <p>Trying to define "normal" as somehow absent of those things has this implicit effect of making us feel bad for not being "normal". And if your situation is turning out to be more chronic and long-lasting--like long Covid, for example--it makes you feel like you will never be "normal" again. No bueno.</p>
 <p>Thru-hikers often intuitively pick up on this. The trail gives you endless ups and downs, every day. You might score a beautiful camping spot only to have it downpour for the next four days, and you're putting on still soaking wet socks and shirt. You might push hard to get to a summit that's supposed to have gorgeous views just to have it walled in with fog. You might get an amazing care package full of love and good food from friends but it weighs more than the rest of your pack combined. Or the trail you're supposed to be hiking might look like this:</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="http://www.livewithsass.com/media/posts/3/IMG_20180623_102309-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-xs.jpg 300w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-sm.jpg 480w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-md.jpg 768w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-lg.jpg 1024w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-xl.jpg 1360w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-2xl.jpg 1600w"  alt="A steep uphill sloped covered in a jumble of rocks. In the distance at the top of the hill, a tree with AT white trail blazes indicates the rock jumble IS the trail." width="3036" height="4048">
+<figure class="post__image post__image--center" ><img loading="lazy" src="http://www.livewithsass.com/media/posts/3/IMG_20180623_102309-2.jpg" alt="A steep uphill sloped covered in a jumble of rocks. In the distance at the top of the hill, a tree with AT white trail blazes indicates the rock jumble IS the trail." width="3036" height="4048" sizes="(max-width: 48em) 100vw, 768px" srcset="http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-xs.jpg 300w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-sm.jpg 480w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-md.jpg 768w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-lg.jpg 1024w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-xl.jpg 1360w ,http://www.livewithsass.com/media/posts/3/responsive/IMG_20180623_102309-2-2xl.jpg 1600w">
 <figcaption >No, this is not a random jumble of rocks. See the trail blaze at the very top? It's the trail. :)</figcaption>
 </figure>
 <p class="dropcap">But more than this false measure of "normal", the entire piece of advice strips you of the story of overcoming difficulties. Of being resilient.</p>
@@ -71,6 +117,7 @@
         </author>
         <link href="http://www.livewithsass.com/about.html"/>
         <id>http://www.livewithsass.com/about.html</id>
+        <media:content url="http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg" medium="image" />
 
         <updated>2022-04-01T12:01:41-04:00</updated>
             <summary>
@@ -81,7 +128,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg" alt="" />
+                    <p><img src="http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hi, I'm Kate, also known as Sassafras.</p>
 <p>In 2018, I hiked the Appalachian Trail, solo. I developed serious nerve problems in my feet but still completed my hike.</p>
 <p>In March of 2020, I contracted COVID. I soon developed what's called longhaul Covid or just long Covid.</p>
@@ -96,10 +143,11 @@
         </author>
         <link href="http://www.livewithsass.com/hike-the-hike-youve-been-given.html"/>
         <id>http://www.livewithsass.com/hike-the-hike-youve-been-given.html</id>
+        <media:content url="http://www.livewithsass.com/media/posts/1/IMG_20180508_170133.jpg" medium="image" />
             <category term="longhaulerwithsass"/>
             <category term="hikerwithsass"/>
 
-        <updated>2022-03-18T18:39:22-04:00</updated>
+        <updated>2022-12-16T17:28:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://www.livewithsass.com/media/posts/1/IMG_20180508_170133.jpg" alt="A red eft crouches on some gravel and sticks" />
@@ -108,7 +156,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.livewithsass.com/media/posts/1/IMG_20180508_170133.jpg" alt="A red eft crouches on some gravel and sticks" />
+                    <p><img src="http://www.livewithsass.com/media/posts/1/IMG_20180508_170133.jpg" class="type:primaryImage" alt="A red eft crouches on some gravel and sticks" /></p>
                 <div>Before I began my hike, I had an image of what it would be like. Of course, I knew there would be rain and mud and miserable days, that my body would hurt, that my pack would feel too heavy. I imagined getting sick of foods, the grossness of unwashed clothing and my body. But underneath all of that, I thought my body would be basically fine: maybe some blisters, some bruises, some weight loss, but fundamentally fine.</div>
 <div> </div>
 <div>I'd been hiking for years, distance cycling and triathlon training 6 days a week for nearly a year. I'd managed Achilles and knee issues. I figured my triathlete body would kind of love "only" having to hike, and that I'd be pulling 20 or 30-mile days with no problem. I expected it to take me somewhere between 3-5 months, though I budgeted for longer just in case.</div>

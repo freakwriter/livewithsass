@@ -14,10 +14,18 @@
 </url>
 <url>
 <loc>http://www.livewithsass.com/about.html</loc>
-<lastmod>2022-04-01T12:01:41-04:00</lastmod>
+<lastmod>2023-10-20T15:53:10-04:00</lastmod>
 <image:image>
 <image:loc>http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/am-i-not-a-maker.html</loc>
+<lastmod>2023-10-20T15:38:30-04:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/9/record-stand-edited.webp</image:loc>
+<image:title><![CDATA[Photo of Kate's record player stand, which includes two shelves for records. The record player sits on the top]]></image:title>
 </image:image>
 </url>
 <url>
@@ -70,5 +78,9 @@
 <image:loc>http://www.livewithsass.com/media/posts/5/PXL_20221119_203614849.jpg</image:loc>
 <image:title><![CDATA[Photo of a cove on the coast of Maine. The sun is setting and the tide is out, revealing lots of dried brown grass and plants.]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/write-the-docs-2022-beating-the-virginia-blues.html</loc>
+<lastmod>2023-10-20T15:42:56-04:00</lastmod>
 </url>
 </urlset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.livewithsass.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>http://www.livewithsass.com/</loc>
+</url>
+<url>
+<loc>http://www.livewithsass.com/a-novel-ecosystem.html</loc>
+<lastmod>2023-01-27T12:21:08-05:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/7/PXL_20221227_203016050.jpg</image:loc>
+<image:title><![CDATA[A large white-green lichen, ruffled in shape, lying on a bed of pine needles with a few twigs sticking out]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/about.html</loc>
+<lastmod>2022-04-01T12:01:41-04:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/2/IMG_20180428_082144_1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/duolingo-streak-blue-blaze.html</loc>
+<lastmod>2023-01-02T12:35:02-05:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/6/IMG_20180709_070625.jpg</image:loc>
+<image:title><![CDATA[An Appalachian Trail sign on a tree, marked with a blue blaze. The sign reads "Bad Weather Trail" with an arrow pointing to the left.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/6/IMG_20180513_082713.jpg</image:loc>
+<image:title><![CDATA[Appalachian Trail sign. The sign reads &quot;Mau-Har Trail. Maupin Field Shelter 3.0&quot; with an arrow to the left. In marker, people have written several statements: &quot;Cheaters shortcut&quot;, &quot;Voldemort was a purist&quot;, and &quot;Take the blue blaze!&quot;]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/hike-the-hike-youve-been-given.html</loc>
+<lastmod>2022-12-16T17:28:37-05:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/1/IMG_20180508_170133.jpg</image:loc>
+<image:title><![CDATA[A red eft crouches on some gravel and sticks]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/on-brain-fog.html</loc>
+<lastmod>2023-04-07T15:22:22-04:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/8/IMG_20180817_075351.jpg</image:loc>
+<image:title><![CDATA[A photo of Flagstaff Lake in Maine, taken from the rocky shore. Most of the lake is covered in fog.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/on-resiliency.html</loc>
+<lastmod>2022-04-01T12:50:08-04:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/3/IMG_20180517_111208.jpg</image:loc>
+<image:title><![CDATA[A rocky overlook shrouded in fog]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/3/IMG_20180623_102309-2.jpg</image:loc>
+<image:title><![CDATA[A steep uphill sloped covered in a jumble of rocks. In the distance at the top of the hill, a tree with AT white trail blazes indicates the rock jumble IS the trail.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://www.livewithsass.com/page/2/</loc>
+</url>
+<url>
+<loc>http://www.livewithsass.com/third-times-the-charm.html</loc>
+<lastmod>2022-12-16T17:27:58-05:00</lastmod>
+<image:image>
+<image:loc>http://www.livewithsass.com/media/posts/5/PXL_20221119_203614849.jpg</image:loc>
+<image:title><![CDATA[Photo of a cove on the coast of Maine. The sun is setting and the tide is out, revealing lots of dried brown grass and plants.]]></image:title>
+</image:image>
+</url>
+</urlset>

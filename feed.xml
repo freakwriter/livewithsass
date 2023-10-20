@@ -3,7 +3,7 @@
     <title>Live with Sass</title>
     <link href="http://www.livewithsass.com/feed.xml" rel="self" />
     <link href="http://www.livewithsass.com" />
-    <updated>2023-10-20T15:53:10-04:00</updated>
+    <updated>2023-10-20T15:58:23-04:00</updated>
     <author>
         <name>Kate / Sassafras</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="http://www.livewithsass.com/write-the-docs-2022-beating-the-virginia-blues.html"/>
         <id>http://www.livewithsass.com/write-the-docs-2022-beating-the-virginia-blues.html</id>
+        <media:content url="http://www.livewithsass.com/media/posts/10/Beating-the-Virginia-Blues.png" medium="image" />
             <category term="presentationswithsass"/>
 
-        <updated>2023-10-20T15:42:56-04:00</updated>
+        <updated>2023-10-20T15:58:23-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="http://www.livewithsass.com/media/posts/10/Beating-the-Virginia-Blues.png" alt="Screenshot of a slide displaying Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project" />
                     Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project In 2018, I quit my job to hike the entire Appalachian Trail, also known as the AT. It took me 163 days. That’s 163 days of carrying everything I owned on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="http://www.livewithsass.com/media/posts/10/Beating-the-Virginia-Blues.png" class="type:primaryImage" alt="Screenshot of a slide displaying Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/oqp0joQmazE?si=sJ3vWs-8FlLutVH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.42383em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project</span></p>
 <div class="talk-content">
